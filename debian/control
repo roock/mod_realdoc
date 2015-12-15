@@ -1,7 +1,7 @@
 Source: libapache2-mod-realdoc
 Priority: extra
 Maintainer: Ryan Lane <rlane@lyft.com>
-Build-Depends: debhelper (>= 8.0.0), apache2-dev
+Build-Depends: debhelper (>= 8.0.0), apache2-prefork-dev
 Standards-Version: 3.9.5
 Section: web
 Homepage: https://github.com/etsy/mod_realdoc
