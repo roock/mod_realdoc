@@ -1,3 +1,9 @@
+libapache2-mod-realdoc (1.0-2) unstable; urgency=medium
+
+  * Changed build scripts to work on Debian Wheezy
+
+ -- Bernard Grymonpon <bernard@openminds.be>  Tue, 17 Feb 2015 10:58:17 +0000
+
 libapache2-mod-realdoc (1.0-1) unstable; urgency=medium
 
   * Initial libapache2-mod-realdoc package
